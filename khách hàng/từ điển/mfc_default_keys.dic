@@ -1,13 +1,7 @@
-#
-# Mifare Default Keys
-#   -- iceman fork version --
-#   -- contribute to this list, sharing is caring --
-#
+
 ffffffffffff # Defaultkey(firstkeyusedbyprogramifnouserdefinedkey)
-000000000000 # Blankkey
-a0a1a2a3a4a5 # NFC Forum MADkey
-A5A4A3A2A1A0 # MAD access key A (reversed) 
-89ECA97F8C2A # MAD access key B
+000000000000 
+89ECA97F8C2A 
 b0b1b2b3b4b5
 c0c1c2c3c4c5
 d0d1d2d3d4d5
